@@ -9,7 +9,6 @@
     <version>1.0.0-SNAPSHOT</version>
     <name>parent-modules</name>
     <packaging>pom</packaging>
-
     <dependencies>
         <!-- logging -->
         <dependency>
