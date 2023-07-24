@@ -60,7 +60,7 @@
         <kotlin.version>1.7.0</kotlin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         
-        <tomcat.version>8.0.48</tomcat.version>
+        <tomcat.version>8.5.51</tomcat.version>
         <jersey.version>2.36</jersey.version>
 
         <external.dir>${project.basedir}/src/main/webapp/external</external.dir>
@@ -234,7 +234,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
 
