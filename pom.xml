@@ -6,7 +6,7 @@
     <groupId>com.technumen</groupId>
     <artifactId>timesheet-upload</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>timesheet-upload</name>
     <description>Application to store timesheet information along with uploads.</description>
